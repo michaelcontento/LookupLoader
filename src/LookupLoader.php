@@ -4,7 +4,7 @@
  * Simple hashtable based autoloader for PHP.
  *
  * Example:
- *   // Instanciate and register the loader 
+ *   // Instantiate and register the loader 
  *   $loader = new LookupLoader();
  *   $loader->register();
  *   
